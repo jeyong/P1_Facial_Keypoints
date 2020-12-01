@@ -8,6 +8,16 @@
 
 In this project, you’ll combine your knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. Your completed code should be able to look at any image, detect faces, and predict the locations of facial keypoints on each face; examples of these keypoints are displayed below.
 
+ * 얼굴 키포인트 검출 시스템
+ * 포함
+   * 얼굴 트랙킹
+   * 얼굴 pose 인식
+   * 얼굴 필터
+   * 감정 인지
+ * 완료 코드
+   * 얼굴 검출
+   * 얼굴 키포인트 위치 
+
 ![Facial Keypoint Detection][image1]
 
 The project will be broken up into a few main parts in four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
